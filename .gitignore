@@ -1,0 +1,28 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+# Fortran module files
+*.mod
+*.smod
+# Compiled Static libraries
+# Executables
+Debug/RutEpson.1DE79C08.tlog/CL.command.1.tlog
+*.tlog
+Debug/RutEpsonFlashTool.Build.CppClean.log
+*.ipch
+*.ipch
+.vs/RutEpsonFlashTool/v16/Browse.VC.db
+Debug/RutEpsonFlashTool.Build.CppClean.log
+*.log
+.vs/RutEpsonFlashTool/v16/Solution.VC.db

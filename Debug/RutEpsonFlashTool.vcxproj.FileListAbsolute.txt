@@ -1,0 +1,5 @@
+C:\Users\GDR\Documents\rss_github\RutronikEpsonFlashTool\Debug\RutEpsonFlashTool.vcxproj.AssemblyReference.cache
+C:\Users\GDR\Documents\rss_github\RutronikEpsonFlashTool\Debug\RutEpsonFlashTool.MyForm.resources
+C:\Users\GDR\Documents\rss_github\RutronikEpsonFlashTool\Debug\RutEpsonFlashTool.MyForm1.resources
+C:\Users\GDR\Documents\rss_github\RutronikEpsonFlashTool\Debug\RutEpsonFlashTool.vcxproj.GenerateResource.cache
+C:\Users\GDR\Documents\rss_github\RutronikEpsonFlashTool\Debug\RutEpsonFlashTool.exe
